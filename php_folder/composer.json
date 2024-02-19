@@ -1,0 +1,15 @@
+{
+    "name": "ubuntu/php_folder",
+    "autoload": {
+        "psr-4": {
+            "Ubuntu\\PhpFolder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Suborno22",
+            "email": "dsuborno0@gmail.com"
+        }
+    ],
+    "require": {}
+}
